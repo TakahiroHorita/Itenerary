@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "517620469516",
-    "firebase_url": "https://itenerary-f2634.firebaseio.com",
-    "project_id": "itenerary-f2634",
-    "storage_bucket": "itenerary-f2634.appspot.com"
+    "project_number": "307022899642",
+    "firebase_url": "https://itenerary-823ee.firebaseio.com",
+    "project_id": "itenerary-823ee",
+    "storage_bucket": "itenerary-823ee.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:517620469516:android:3198fc9f7e78932a",
+        "mobilesdk_app_id": "1:307022899642:android:3198fc9f7e78932a",
         "android_client_info": {
           "package_name": "jp.techacademy.takahiro.horita.itenerary"
         }
       },
       "oauth_client": [
         {
-          "client_id": "517620469516-oinubl7qr4crpi9o9lb0gfcpogkiliis.apps.googleusercontent.com",
+          "client_id": "307022899642-dvuc7vuj6vh1p33lk19jp1jf62v2qus4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBlVgjlHqnWCpOZ-HjTHV7j1qqKthgwUcY"
+          "current_key": "AIzaSyBjeDS1XPFQMsmfKg_8NLZQ1c_3Fn_Tcyg"
         }
       ],
       "services": {
